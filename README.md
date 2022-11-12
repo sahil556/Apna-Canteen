@@ -1,2 +1,52 @@
 # Apna Canteen
- canteen management system ( flutter project)
+Apna Canteen is a Canteen Management Application for University Canteens and a **Hackathon Winner** project. 
+We have two Applications, User App and Admin App.
+
+# Problem Statement
+
+* In universities, during breaktime there is a lot of rush for food at canteen. 
+* Moreover break time is limited so it is difficult for students and teachers to have their ordered food on time.
+
+# Solution 
+* We have built mobile applications that can help users to order food.
+* We also have an admin app that monitors all the orders and adds or deletes various products as per availability.
+           
+# Tech-Stack
+
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />	<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>	<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>	         
+
+
+# Features Of User App
+
+* Create an account/Login
+* View all available Food Items
+* Add food to Cart
+* Order Food (Unique order Id Generated)
+* View Order Status
+* Pay Online
+* Provide with feedback
+
+# Features Of Admin App
+
+* Add Product with Images
+* View Products
+* Edit Products
+* Delete Products
+* Change availability
+* Add/View Categories
+* View Orders
+* Modify Orders
+* Modify payment (pending/done)
+* Modify order status (Waiting/Reject/Confirm)
+
+# Future Scope
+
+* Search Products
+* Generation Of Daily, Weekly, Monthly, Yearly Sales Report
+* Integration with payment Gateway
+* UI Improvement (Display Category wise products)
+* UI Improvement to view orders for Admin
+
+# Contributors
+* Sahil Nandaniya
+* Parshwa Mehta
