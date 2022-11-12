@@ -31,10 +31,10 @@
 git clone https://github.com/<your_user_name>/Apna-Canteen.git
 ```
 
-**3.** Open Android Studio or Install it from [here](https://developer.android.com/studio) 
+**3.** Open Android Studio or Install it from [here.](https://developer.android.com/studio) 
 
 
-**4.** Open project in android studio
+**4.** Open project in android studio.
 
 
 ## Adding  Firebase to our android application via Firebase console
@@ -60,7 +60,7 @@ Other fields are optional, so click on Register App.
 
 **8.** In the next step, we will add the Firebase SDK. This has been done inside the Android Studio. We have to modify the build. Gradle files. But it is already done. so no need to do it.
 
-- Click on Next button
+- Click on Next button.
 
 **Click on continue to console. Firebase setup is done.**
 
@@ -72,7 +72,7 @@ Other fields are optional, so click on Register App.
 
 **3.** Click on start collection & provide collection id  categories click next and click autoid in document id and save it.
 - Do the above step for 5 time for following collections:
-feedback, orders, products, startstop, users
+feedback, orders, products, startstop, users.
 
 
 **Firestore setup is also complete.**
