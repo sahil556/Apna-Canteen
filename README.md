@@ -87,7 +87,7 @@ feedback, orders, products, startstop, users.
 
 <p align="left"><img src="https://user-images.githubusercontent.com/84856389/193466574-8a0d5108-f30a-40a9-be49-e78143548960.jpg"  width = 40%></p>
 
-For further details, click on [Firebase documentation](https://firebase.google.com/docs)
+For further details, Refer [Firebase documentation.](https://firebase.google.com/docs)
 
 <h2 align= "left"><b>Code of Conduct</b></h2>
 
