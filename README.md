@@ -78,7 +78,7 @@ feedback, orders, products, startstop, users.
 
 **Firestore setup is also complete.**
 
-- In Android Studio run this command on console `**flutter pub get**`
+- In Android Studio run this command on console ```flutter pub get```
 - It install all the required dependency. 
 - After that select Emulator and click on run button.
 
