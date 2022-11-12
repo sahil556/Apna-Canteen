@@ -23,7 +23,6 @@ We have two Applications, User App and Admin App.
 * Add food to Cart
 * Order Food (Unique order Id Generated)
 * View Order Status
-* Pay Online
 * Provide with feedback
 
 # Features Of Admin App
@@ -37,7 +36,8 @@ We have two Applications, User App and Admin App.
 * View Orders
 * Modify Orders
 * Modify payment (pending/done)
-* Modify order status (Waiting/Reject/Confirm)
+* Modify order status (Waiting/Reject/Confirm)'
+* View Sell Analysis
 
 # Future Scope
 
