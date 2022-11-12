@@ -1,5 +1,5 @@
 # Apna Canteen
-Apna Canteen is a Canteen Management Application for University Canteens and a **Hackathon Winner** project. 
+Apna Canteen is a Canteen Management Application for University Canteens. 
 We have two Applications, User App and Admin App.
 
 # Problem Statement
