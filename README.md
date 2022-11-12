@@ -47,10 +47,11 @@ git clone https://github.com/<your_user_name>/Apna-Canteen.git
 
 **4.** once project is created (it takes some time) click on continue to enter in our project.
 
-**5.** In this step, we have to choose the platform to add Firebase to our application. The platform can be Android, iOS, Web, and Unity. Choose Android.
+**5.** In this step, we have to choose the platform to add Firebase to our application. The platform can be Android, iOS, Web, and Unity. 
+- Choose Android.
 
 **6.** In this step, we have to mention the package name, and the package name is the mandatory and important thing. The package name should be matched with our Android applications package name. You can find the package name of our application in Your Android project -> android/app/build.gradle -> defaultConfig -> applicationId. 
-Other fields are optional, so click on Register App.
+- Other fields are optional, so click on Register App.
 
 
 **7.** It is one of the most important steps. In this step, we have to download the google-services.json file. This file is provided by Firebase for us to put it inside our application folder in our application. Download it and put it inside android/app/
